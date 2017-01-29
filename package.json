@@ -1,5 +1,5 @@
 {
-  "name": "@ms/node-web-build",
+  "name": "node-web-build",
   "version": "0.0.1",
   "description": "",
   "engines": {
